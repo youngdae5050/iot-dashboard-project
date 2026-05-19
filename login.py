@@ -1,6 +1,9 @@
 # login.py
 
 
+# 수정 되었습니다
+
+
 def login(username: str, password: str) -> dict:
     """사용자 로그인 처리"""
     valid_users = {"admin": "1234", "user1": "abcd"}
